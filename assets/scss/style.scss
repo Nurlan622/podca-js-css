@@ -1,0 +1,13 @@
+@import './partials/header';
+@import './partials/podcarecent';
+body{
+    a{
+        text-decoration: none;
+    }
+    .text-black-opacity-05{
+        color: rgba(0, 0, 0, 0.5);
+    }
+    .text-red{
+        color: #f23a2e !important;
+    }
+}

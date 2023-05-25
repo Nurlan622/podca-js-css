@@ -1,0 +1,41 @@
+#podca-header {
+  background-image: url(https://preview.colorlib.com/theme/podca/images/hero_bg_1.jpg.webp);
+  background-position: 50% -25px;
+  position: relative;
+}
+#podca-header .bcg-dark {
+  position: absolute;
+  content: "";
+  left: 0;
+  bottom: 0;
+  right: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.4);
+}
+#podca-header .podca-nav {
+  padding-top: 50px;
+}
+#podca-header .header-text {
+  padding-top: 100px;
+  position: relative;
+}
+#podca-header .header-text h2 {
+  font-size: 3.5rem;
+}
+
+#podca-body-recent {
+  background-color: #ccc;
+}
+#podca-body-recent .border-1 {
+  border: 5px solid black;
+}
+
+body a {
+  text-decoration: none;
+}
+body .text-black-opacity-05 {
+  color: rgba(0, 0, 0, 0.5);
+}
+body .text-red {
+  color: #f23a2e !important;
+}
